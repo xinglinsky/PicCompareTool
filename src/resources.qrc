@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/light/open.png</file>
+        <file>icons/light/paste.png</file>
+        <file>icons/light/url.png</file>
+        <file>icons/light/combo-arrow.png</file>
+        <file>icons/dark/open.png</file>
+        <file>icons/dark/paste.png</file>
+        <file>icons/dark/url.png</file>
+        <file>icons/dark/combo-arrow.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>themes/light.qss</file>
+        <file>themes/dark.qss</file>
+    </qresource>
+</RCC>
